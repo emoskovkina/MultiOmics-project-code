@@ -1,0 +1,15 @@
+Control_rep1	SRR13269790.fastq
+Control_rep2	SRR13269791.fastq
+Control_rep3	SRR13269792.fastq
+TAZ_S89A_overexpression_rep1	SRR13269793.fastq
+TAZ_S89A_overexpression_rep2	SRR13269794.fastq
+TAZ_S89A_overexpression_rep3	SRR13269795.fastq
+TAZ_S51A/S89A_overexpression_rep1	SRR13269796.fastq
+TAZ_S51A/S89A_overexpression_rep2	SRR13269797.fastq
+TAZ_S51A/S89A_overexpression_rep3	SRR13269798.fastq
+YAP_S127A_overexpression_rep1	SRR13269799.fastq
+YAP_S127A_overexpression_rep2	SRR13269800.fastq
+YAP_S127A_overexpression_rep3	SRR13269801.fastq
+YAP_S94A/S127A_overexpression_rep1	SRR13269802.fastq
+YAP_S94A/S127A_overexpression_rep2	SRR13269803.fastq
+YAP_S94A/S127A_overexpression_rep3	SRR13269804.fastq
