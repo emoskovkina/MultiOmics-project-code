@@ -191,7 +191,7 @@ DEGs_with_cutoff <- rownames(DEGs)[which(DEGs$logFC > 1 | DEGs$logFC < -1)]
 length(DEGs_with_cutoff)
 write.table(DEGs_with_cutoff, file="geneNames_TAZ_S89A_overexpression_cutoff_logFC_1.txt", quote=F, row.names=F, col.names=F, sep="\t")
 upReg_c <- rownames(DEGs)[which(DEGs$logFC > 1)]
-downReg_c <- rownames(DEGs)[which(DEGs$logFC < 1)]
+downReg_c <- rownames(DEGs)[which(DEGs$logFC < -1)]
 write.table(upReg_c, file="geneNames_upReg_TAZ_S89A_overexpression_cutoff_logFC_1.txt", quote=F, row.names=F, col.names=F, sep="\t")
 write.table(downReg_c, file="geneNames_downReg_TAZ_S89A_overexpression_cutoff_logFC_1.txt", quote=F, row.names=F, col.names=F, sep="\t")
 
